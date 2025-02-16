@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
-Disallow: []
+Disallow:
 
 Sitemap: https://codesolver.vercel.app/sitemap.xml
