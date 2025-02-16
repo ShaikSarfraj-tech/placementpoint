@@ -2,4 +2,4 @@ User-Agent: *
 Allow: /
 Disallow:
 
-Sitemap: https://codesolver.vercel.app/sitemap.xml
+Sitemap: https://codesolver-eight.vercel.app/sitemap.xml
