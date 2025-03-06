@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://codesolver-eight.vercel.app/sitemap.xml
+Sitemap: https://codermastery.com/sitemap.xml
