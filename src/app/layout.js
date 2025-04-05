@@ -70,7 +70,7 @@ export default function RootLayout({ children }) {
     document.documentElement.classList.add('dark')
   } else {
     document.documentElement.classList.remove('dark')
-  }`}
+  }`} </Script>
 <script type="text/javascript" src="//www.highperformanceformat.com/fc654f82e592a48e6dff6999e3a7f50d/invoke.js"></script>
         <Header />
         {children}
