@@ -82,13 +82,6 @@ export default function RootLayout({ children }) {
     };
   `}
 </Script>
-
-<Script
-  id="ad-script-src"
-  strategy="afterInteractive"
-  src="//www.highperformanceformat.com/fc654f82e592a48e6dff6999e3a7f50d/invoke.js"
-/>
-
 <script type="text/javascript" src="//www.highperformanceformat.com/fc654f82e592a48e6dff6999e3a7f50d/invoke.js"></script>
         <Header />
         {children}
